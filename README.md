@@ -1,6 +1,8 @@
 ### Hi 👋,
 
-welcome to my GitHub Page.
+welcome to my GitHub Page (for job needs only).
+
+Nothing public to see right now. 😉
 
 <!---
 - 👋 Hi, I’m @bschaefer-ci
